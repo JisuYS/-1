@@ -1,10 +1,10 @@
-#include <stdio.h>
+// #include <stdio.h>
 
-main() {
-  int a = 15;
-  int b = 20;
-  int c = a & b;
+// main() {
+//   int a = 15;
+//   int b = 20;
+//   int c = a & b;
 
-  printf("AND 연산 결과 : %d", c);
-  return 0;
-}
+//   printf("AND 연산 결과 : %d", c);
+//   return 0;
+// }
