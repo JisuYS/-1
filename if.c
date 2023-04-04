@@ -16,4 +16,4 @@ main(){
   
   if(a<3)printf("H\n");
   printf("I\n");
-}
+}     
